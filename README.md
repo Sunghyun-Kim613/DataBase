@@ -12,7 +12,7 @@ an interactive dashboard for delay causes and cancellation hotspots.
 - Visualization: Plotly
 
 ## Structure
-
+(Latest python)
 ```text
 airline_delay_project/
 ├─ backend/
